@@ -31,7 +31,7 @@ This repository contains the implementation of denoising diffusion model for ima
 
 2. Run the `evaluator.py` script, providing the paths to the reference batch and the sample batch as command-line arguments:
    ```bash
-   python evaluator.py --reference_batch_path path/to/reference_batch --sample_batch_path path/to/sample_batch
+   python evaluator.py path/to/reference_batch path/to/sample_batch
    ```
    Here are links to download all of the sample and reference batches:
 
