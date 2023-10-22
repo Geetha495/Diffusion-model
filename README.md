@@ -48,4 +48,9 @@ This repository contains the implementation of denoising diffusion model for ima
     | sFID         | 9.06836742894393                    |
     | Precision    |  0.60118                            |
     | Recall       | 0.4504                              |
-         
+## References
+1. [Denoising Diffusion Probabilistic Models Paper](https://arxiv.org/abs/2006.11239)
+2. [LSUN Bedroom Dataset Repository](https://github.com/fyu/lsun)
+3. Evaluation metrics
+   - [FID score](https://github.com/bioinf-jku/TTUR/blob/73ab375cdf952a12686d9aa7978567771084da42/fid.py#L109)
+   - [Precission and Recall](https://github.com/openai/guided-diffusion/blob/22e0df8183507e13a7813f8d38d51b072ca1e67c/evaluations/evaluator.py#L194C7-L194C7) 
