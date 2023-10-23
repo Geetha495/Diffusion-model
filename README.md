@@ -5,7 +5,7 @@
 This repository contains the implementation of denoising diffusion model for image generation. 
 ## Files:
 
-1. **diffusion.ipynb:**
+1. **diffusion.ipynb:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hxVmxgzttsle-mGP5z9UHZcgNZqg9TXP?usp=sharing)
    - This Jupyter Notebook file contains the implementation of the diffusion model for image generation.
    - The model is trained on a one-bedroom image from the LSUN bedroom dataset.
    - It includes visualizations of both the forward and reverse processes of the diffusion model.
